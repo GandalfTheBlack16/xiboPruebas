@@ -1,0 +1,21 @@
+{
+	 "playlist": [
+		  {
+				"url": "http://javy.fdi.ucm.es/marco/pantallas/cartel1.jpg",
+				"duration": "20"
+		  },
+		  {
+				"url": "http://javy.fdi.ucm.es/marco/pantallas/cartel2.jpg",
+				"duration": "20"
+		  },
+		  {
+				"url": "http://javy.fdi.ucm.es/marco/pantallas/video.mp4",
+				"duration": "-1"
+				
+		  },
+		  {
+				"url": "http://javy.fdi.ucm.es/marco/pantallas/hojas.png",
+				"duration": "10"
+		  }
+	 ]
+}
